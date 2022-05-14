@@ -53,7 +53,7 @@ print('\033[1;44m  Sorteio de Campeões Paladins  \033[m'.center(50))
 while True:
     try:
         linha()
-        print('\033[3;32;47m- Menu principal -')
+        print('\033[1;32m- Menu principal -')
         print('\033[m')
         opcao = int(input("""\033[32mSelecione a opção que deseja sortear:
 [1] Sortear apenas uma Classe.

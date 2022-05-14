@@ -1,7 +1,10 @@
 # Autor: Junior Obom
-# 10/08/2017
+# Adaptações por Igor Souza
 
-# Forma palavras através de silabas e não de letra em letra
+
+# Veja como um software descobre sua senha. Essa é apenas uma simulação simples.
+
+    # Forma palavras através de silabas e não de letra em letra
 cont = 0
 key=input("Digite uma palavra de 3 silabas: ") 
 
